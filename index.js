@@ -21,7 +21,7 @@ function Ferret(name,age,foodRequirements) {
 function Bird(name,breed){
   this.name=name
 
-  this.age=age
+  this.breed=breed
 }
 
 function Fish(name,species,waterConditions) {
